@@ -1,0 +1,1 @@
+In questo progetto ho creato un applicazione utilizzando Spring, gestito le persistenze dei dati con Spring Data JPA, implementato tutte le REST API, la parte sull'autenzticazione e autorizzazione dei JWT token è in fase di sviluppo. 
